@@ -52,5 +52,3 @@ Hi there! I'm **Shaima Mohamed**, a passionate **Data & Business Analyst** and m
 ---
 
 ✨ Let’s collaborate, learn, and make something awesome together! ✨  
-
-
