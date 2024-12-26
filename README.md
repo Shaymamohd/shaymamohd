@@ -54,7 +54,5 @@ Hi there! I'm **Shaima Mohamed**, a passionate **Data & Business Analyst** and m
 ✨ Let’s collaborate, learn, and make something awesome together! ✨  
 
 <!-- markdownlint-disable MD013 -->
-This is a long line that exceeds the allowed length, but it's intentional.
-<!-- NOTE: The line length is intentional to preserve the desired format and readability. -->
-<!-- markdownlint-enable MD013 -->
+
 
