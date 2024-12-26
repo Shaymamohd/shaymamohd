@@ -1,5 +1,5 @@
 # 🌟 Welcome to My Profile! 🎉  
-
+<!-- markdownlint-disable MD013 -->
 Hi there! I'm **Shaima Mohamed**, a passionate **Data & Business Analyst** and math enthusiast 📊➕ who thrives on solving problems, uncovering insights, and continuously learning.  
 
 ---
@@ -52,7 +52,5 @@ Hi there! I'm **Shaima Mohamed**, a passionate **Data & Business Analyst** and m
 ---
 
 ✨ Let’s collaborate, learn, and make something awesome together! ✨  
-
-<!-- markdownlint-disable MD013 -->
 
 
