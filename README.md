@@ -2,9 +2,12 @@
 
 Hi there! I'm **Shaima Mohamed**, a passionate **Data & Business Analyst** and math enthusiast 📊➕ who thrives on solving problems, uncovering insights, and continuously learning.  
 
+<!-- NOTE: The line length is intentional to preserve the desired format and readability. -->
+
 ---
 
 ## 🚀 About Me  
+
 - **📊 Data Enthusiast:** I love turning data into meaningful stories and actionable insights.  
 - **➕ Math Lover:** Numbers, equations, and problem-solving fuel my curiosity and keep me inspired.  
 - **📚 Lifelong Learner:** I’m always exploring new tools, techniques, and technologies to enhance my skills.  
@@ -13,21 +16,24 @@ Hi there! I'm **Shaima Mohamed**, a passionate **Data & Business Analyst** and m
 ---
 
 ## ✨ Skills & Tools  
+
 ### **📊 Data Analytics**  
+
 - Excel (Advanced Data Manipulation)
 - SQL (Data Querying and Analysis)  
 - Python  
 
 ---
   
-
 ### **📈 Data Visualization**  
+
 - Power BI  
 - Tableau  
 
 ---
 
 ## 🌟 Fun Facts About Me  
+
 - I view **data** as a puzzle and thrive on finding the missing pieces! 🧙‍♀️  
 - I spend my free time solving math equations 🤓  
 - If I could have a superpower, it would be the ability to **clean and organize data instantly!** 🧘‍♀️  
@@ -35,11 +41,13 @@ Hi there! I'm **Shaima Mohamed**, a passionate **Data & Business Analyst** and m
 ---
 
 ## 🌱 Currently Learning  
-- Data and Computer Science 📚    
+
+- Data and Computer Science 📚
 
 ---
 
 ## 📥 Connect with Me  
+
 - 📧 [Email Me](mailto:shaymaizzt@gmail.com)  
 - 🌐 [LinkedIn](https://linkedin.com/in/shaimamohamed12)  
 
